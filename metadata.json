@@ -1,0 +1,6 @@
+{
+  "name": "Monochrome Tetris",
+  "description": "A beautifully designed, highly responsive, and mobile-friendly monochrome Tetris game featuring touch controls and high-contrast retro-modern aesthetics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
